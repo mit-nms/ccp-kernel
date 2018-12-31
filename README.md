@@ -1,3 +1,5 @@
+This is an old, unmaintained version of ccp-kernel. Please see github.com/ccp-project/ccp-kernel instead.
+
 # ccp-kernel
 Kernel module implementing a kernel datapath for the CCP
 
